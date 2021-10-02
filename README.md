@@ -26,7 +26,7 @@ Object based considerations
   - Bedrooms
   - FullBath
 ### Methods:
-  -Data_Cleaning:
+  ###### Data_Cleaning:
     - Replacing values
     - Delimiters (Substr, character indx)
     - Removing Duplicates
